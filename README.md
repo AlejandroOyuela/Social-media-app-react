@@ -14,11 +14,6 @@ Features:
 - Image uploads
 - Notifications
 
-Website:
-- Original from Firebase: https://socialape-7d0b6.firebaseapp.com/
-- Github pages: https://dch133.github.io/Social-Media-App/
-
-Edit: Remote version of the app will probably stop working as dependencies get outdated. I don't actively support this app anymore. Feel free to suggest changes if you want.
 
 -------------------------------------------------
 # Running Frontend side locally:
